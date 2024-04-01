@@ -1505,7 +1505,6 @@
 ||firebase-settings.crashlytics.com^
 ||cdn.syndication.twimg.com^
 ||pbs.twimg.com^$badfilter  # twitter images
-||init.push.apple.com^
 ||gruene.matomo.cloud^
 ||actionnetwork.org^
 ||webstats.liberale.de^
